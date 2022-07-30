@@ -1,4 +1,4 @@
-<h1 text-align = "center">Hi there 👋, I'm Senal Witharana </h1>
+<h1 text-align : center>Hi there 👋, I'm Senal Witharana </h1>
 ### Undergraduate of university of Kelaniya
 
 - 🌱 I’m currently learning Python, MERN stack 
