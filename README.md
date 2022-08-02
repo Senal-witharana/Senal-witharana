@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senal Witharana</h1>
-<h3 align="center">Undergraduate of university of Kelaniya</h3>
+<h3 align="center">Undergraduate at university of Kelaniya</h3>
 
 - 🌱 I’m currently learning **Python, MERN stack**
 
